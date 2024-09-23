@@ -49,37 +49,37 @@ body {
 
 /* Imagem para a face frontal */
 .front {
-  background-image: url('assets/1.png'); 
+  background-image: url('assets/mhpCubo1.png'); 
   transform: translateZ(75px);
 }
 
 /* Imagem para a face traseira */
 .back {
-  background-image: url('assets/1.png'); 
+  background-image: url('assets/mhpCubo1.png'); 
   transform: rotateY(180deg) translateZ(75px);
 }
 
 /* Imagem para a face esquerda */
 .left {
-  background-image: url('assets/3.png'); 
+  background-image: url('assets/mhpCubo3.png'); 
   transform: rotateY(-90deg) translateZ(75px);
 }
 
 /* Imagem para a face direita */
 .right {
-  background-image: url('assets/3.png'); 
+  background-image: url('assets/mhpCubo1.png'); 
   transform: rotateY(90deg) translateZ(75px);
 }
 
 /* Imagem para a face superior */
 .top {
-  background-image: url('assets/2.png'); 
+  background-image: url('assets/mhpCubo2.png'); 
   transform: rotateX(90deg) translateZ(75px);
 }
 
 /* Imagem para a face inferior */
 .bottom {
-  background-image: url('assets/2.png'); 
+  background-image: url('assets/mhpCubo2.png'); 
   transform: rotateX(-90deg) translateZ(75px);
 }
 
